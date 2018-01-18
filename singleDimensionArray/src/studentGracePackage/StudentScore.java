@@ -6,7 +6,7 @@
 // Author: Brook Worku
 // Date: 11/04/2017
 
-package singleDimensionArrayPackage;
+package studentGracePackage;
 
 import java.util.Scanner;
 

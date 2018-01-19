@@ -146,5 +146,4 @@ public class StudentScore {
 		return totStu;
 	
 	} // end insertNumStudent
-	
 } // StudentScore

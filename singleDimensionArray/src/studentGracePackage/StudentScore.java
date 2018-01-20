@@ -33,8 +33,12 @@ public class StudentScore {
 			letGrade = gradeAssign(grades[cntr]);
 			System.out.println("Student " + cntr + " score is "+ grades[cntr] + " and grade is "+ letGrade );
 		}
+
 		System.out.println("JavaHome");
 		
+
+		System.out.println("JavaHome2");
+
 	} // end main
 	
 	
